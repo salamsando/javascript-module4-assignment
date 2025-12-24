@@ -1,5 +1,5 @@
 
-let foods = ["waakye", "beans", "jollof", "ampesi", "banku"];
+let foods = ["Waakye", "Beans", "Jollof", "Ampesi", "Banku"];
 
 
 console.log("First food:", foods[0]);
@@ -52,6 +52,4 @@ let studentWithMethod = {
 };
 
 studentWithMethod.greet();
-
-
 
